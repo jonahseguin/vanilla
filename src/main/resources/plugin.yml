@@ -1,0 +1,5 @@
+name: vanilla
+main: com.jonahseguin.vanilla.VanillaPluginKt
+version: ${project.version}
+author: Jonah Seguin
+website: jonahseguin.com
